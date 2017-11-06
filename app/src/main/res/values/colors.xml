@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A7D4F</color>
+    <color name="colorPrimaryDark">#00695c</color>
+    <color name="colorAccent">#269f5b</color>
+    <color name="zxing_transparent">#00fcfcfc</color>
+    <color name="color_txt_black">#212121</color>
+    <color name="color_iv_tint">#d4e2e1</color>
+</resources>
